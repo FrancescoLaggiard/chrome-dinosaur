@@ -1,0 +1,4 @@
+Dopo aver eseguito l'accesso a github abbiamo fatto la fork del file condiviso dal prof per averlo anche sul nostro account, dopodichè aprendo il git CMD abbiamo
+creato una cartella e si inserisce dentro il file con la clone(git clone), dopo abbiamo modificato manualmente il file sccrivendo un commento in un file ".c".
+Ora usiamo il comando add(git add +nome del file modificato) e poi "git commit*" che fa entrare in un CMD dopo aver fatto accesso al proprio account,
+si scrive il nome da dare ad un file e dopo  con "esc" si scrive w(write) e q(quit) e il nome del file viene modificato.
