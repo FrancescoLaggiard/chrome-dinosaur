@@ -6,7 +6,8 @@
 #include "menu.h"
 #include "game.h"
 #include "appearance.h"
-
+/* fra è stato qui
+*/
 
 void startMenu() {
 	struct user firstUser;
